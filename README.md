@@ -1,10 +1,7 @@
 # Smart Refrigerator – Passive Cooling Control System
 
 ## Demo Video
-
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/O7e8nfwptJs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Watch the demo video on YouTube: [Smart Refrigerator Demo](https://youtu.be/O7e8nfwptJs)
 
 ## Overview
 This project is an Arduino-based **Smart Refrigerator** system that automates cooling using fan-assisted heat dissipation and user-defined timing. It monitors temperature, controls fans, and provides real-time feedback through a digital display and buttons. The system is designed to improve energy efficiency during peak utility periods while maintaining safe internal temperatures.
